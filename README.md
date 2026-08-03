@@ -1,14 +1,20 @@
-# 李小龙 | Li Xiaolong
+# 李小龙  |  Li Xiaolong
+
 ## Backend R&D Engineer / Machine Vision Cloud Platform Tech Lead
 
 > 8年云平台研发与技术管理经验 | AI视觉云原生架构负责人 | LLM&RAG向量检索工程化落地专家
+
 📍 Location：Haidian District, Beijing
-📱 Phone：176-****-****
+
+📱 Phone：176-XXXX-XXXX
+
 📧 Email：timilong928@gmail.com
 
 ## 👋 About Me 关于我
+
 ### 中文简介
-拥有8年云平台研发与团队管理经验，现任机器视觉云平台技术负责人，带领10人研发团队。长期深耕视觉算法工程化、大规模视频流媒体系统、分布式AI推理平台架构设计与性能调优；近年主攻大模型应用、RAG向量检索，独立完成从0到1智能检索服务搭建。擅长结合云原生分布式技术实现AI视觉业务规模化落地，平衡技术深度与商业业务价值，长期聚焦多模态大模型+智能搜索赛道。
+
+拥有8年云平台研发与团队管理经验，现任机器视觉云平台技术负责人，带领10人研发团队。长期深耕视觉算法工程化、大规模视频流媒体系统、分布式AI推理平台架构设计与性能调优；近年主攻大模型应用、RAG向量检索，独立完成从0到1智能检索服务搭建。擅长结合云原生分布式技术实现AI视觉业务规模化落地，平衡技术深度与商业业务价值，长期聚焦多模态大模型 + 智能搜索赛道。
 
 ### English Intro
 8 years of experience in cloud platform R&D and technical management, currently serving as the technical lead of machine vision cloud platform leading a 10-member R&D team.
@@ -17,17 +23,22 @@ Recent research focus: LLM application, RAG vector retrieval, built full intelli
 Good at landing multimodal AI vision business with cloud-native distributed architecture, pursuing both technical depth and commercial value.
 
 ## 🎓 Education 教育背景
+
 ### 湖南大学 Hunan University
+
 2015.09 - 2017.07 | 软件工程 本科 | Bachelor of Software Engineering
 - GPA：3.7/4.0，专业排名前1% | Top 1% of major
 
 ### 西南民族大学 Southwest Minzu University
+
 2013.09 - 2015.07 | 软件工程（湖大联合培养）| Joint Training Program
 - GPA：3.6，专业排名1%~5% | Top 1%~5% of major
 - 2015全国大学生计算机设计大赛 省一等奖、全国二等奖
 
 ## 💼 Work Experience 工作经历
+
 ### 北京升哲科技 SENSORO
+
 **机器视觉平台组负责人 Tech Lead, Machine Vision Platform**
 2018.07 - Present
 1. 搭建并管理10人前后端、流媒体完整研发团队，统筹团队人才建设、任务排期与技术管理；
@@ -72,31 +83,41 @@ Good at landing multimodal AI vision business with cloud-native distributed arch
 - 人员聚档、身份还原向量检索：1000+ QPS，平均响应 ≤ 150ms
 
 ## 🛠 Tech Stack 技术栈
+
 ### Backend & Cloud Native
 Python, FastAPI, Tornado, Docker, K8s, Microservice, Nacos, Celery
+
 ### Distributed Middleware & Database
 Kafka, Redis, Elasticsearch, Milvus/Zilliz, PostgreSQL, S3 MinIO
+
 ### Computer Vision & AI Inference
 YOLO, ResNet, Transformer, Video Stream Parsing, Model Performance Tuning
+
 ### LLM & RAG
 Vector Retrieval System, Intelligent Search Service, Large Model Engineering Landing
+
 ### DevOps & O&M
 Distributed Task Scheduling, High Concurrency Optimization, Mass Video Cluster Operation
 
 ## 🏆 Honors & Awards 获奖经历
+
 ### 职场荣誉 Work Award
+
 - SENSORO优秀员工（2019/2020/2021）连续三年获评，表彰项目攻坚、团队建设与业务落地突出贡献
 
 ### 校园竞赛 Academic Competition
+
 - 2015 中国大学生计算机设计大赛
   - 四川省一等奖 Sichuan Provincial First Prize
   - 全国总决赛二等奖 National Finals Second Prize
 
 ## 🎯 Career Direction 职业发展方向
-中文：深耕大模型多模态应用、RAG向量检索、智能搜索、大规模云原生AI推理平台架构方向；持续拓展机器视觉+大模型融合落地场景。
-English: Focus on multimodal LLM application, RAG vector retrieval, intelligent search, large-scale cloud-native AI inference architecture; keep exploring fusion scenarios of computer vision and large language model.
+
+深耕大模型多模态应用、RAG向量检索、智能搜索、大规模云原生AI推理平台架构方向；持续拓展机器视觉+大模型融合落地场景。
+
+Focus on multimodal LLM application, RAG vector retrieval, intelligent search, large-scale cloud-native AI inference architecture; keep exploring fusion scenarios of computer vision and large language model.
 
 ## 📬 Contact 联系方式
-- Mobile：176-****-****
+- Mobile：176-XXXX-XXXX
 - Email：timilong928@gmail.com
 - Location：Haidian District, Beijing, China
