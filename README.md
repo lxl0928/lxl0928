@@ -1,6 +1,6 @@
 # 李小龙  |  Li Xiaolong
 
-## 8年云平台研发与技术管理经验 | AI视觉云原生架构负责人 | LLM & RAG & Agent 工程化落地专家
+## 8年云平台研发与技术管理经验 | AI视觉云原生架构负责人
 
 > Backend R&D Engineer / Machine Vision Cloud Platform Tech Lead
 
