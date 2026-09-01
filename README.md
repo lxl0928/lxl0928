@@ -12,7 +12,7 @@
 
 ## 👋 关于我 | About Me
 
-拥有 8 年云平台研发与技术管理经验，现任机器视觉云平台技术负责人，带领 10 人研发团队长期深耕视觉算法工程化、大规模视频流媒体系统、分布式 AI 推理平台架构设计与性能调优；近年主攻大模型应用、RAG 向量检索，独立完成从 0 到 1 的智能检索服务搭建。擅长结合云原生分布式技术实现 AI 视觉业务规模化落地，平衡技术深度与商业价值，长期聚焦多模态大模型 + 智能搜索赛道。
+拥有 8 年云平台研发与技术管理经验，现任机器视觉云平台技术负责人，带领 10+ 研发团队（涵盖前端、算法、流媒体）长期深耕视觉算法工程化、大规模视频流媒体系统、分布式 AI 推理平台架构设计与性能调优；近年主攻大模型应用、RAG 增强检索，独立完成从 0 到 1 的智能检索服务搭建。擅长结合云原生分布式技术实现 AI 视觉业务规模化落地，平衡技术深度与商业价值，长期聚焦多模态大模型 + 智能搜索赛道。
 
 8 years of experience in cloud platform R&D and technical management. Currently serving as the technical lead of a machine vision cloud platform, leading a 10-member R&D team specialized in visual algorithm engineering, large-scale video streaming systems, and distributed AI inference platform architecture design & performance optimization.
 Recent focus: LLM applications and RAG vector retrieval; independently built an intelligent search service from scratch.
@@ -73,13 +73,13 @@ Skilled at scaling multimodal AI vision businesses with cloud-native distributed
 
 ### 2. 商业成果 | Business Achievements
 
-落地数字点军、数智五峰、宜昌算力中心、川南人工智能算力中心等政府标杆项目。
-- 项目累计中标总额超 5 亿元，全部按期验收交付
+落地数字点军、数智五峰、宜昌算力中心、川南人工智能算力中心、数智临港、数字新乡、智慧监狱、宜昌公安视频图像综合应用实验室等政府标杆项目。
+- 项目累计中标总额超 5+ 亿元，全部按期验收交付
 
 ### 3. 平台承载规模 | Platform Scale
 
 - 接入自研智能摄像机 15000+ 台，存量视频流 30000+ 路
-- 稳定承载同时在线实时视频流 40000+ 路
+- 稳定承载同时在线实时视频流 40000+ 路实时视频流
 
 ### 4. 核心性能指标 | Core Performance
 
@@ -126,4 +126,5 @@ Focus on multimodal LLM application development, RAG vector retrieval, intellige
 - Mobile：176-XXXX-XXXX
 - Email：timilong928@gmail.com
 - Location：Haidian District, Beijing, China
+
 
