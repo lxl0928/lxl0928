@@ -11,12 +11,9 @@
 📧 Email：timilong928@gmail.com
 
 ## 👋 关于我 | About Me
+拥有 8 年云平台研发与技术管理经验，曾任北京升哲（SENSORO）科技有限公司机器视觉云平台技术负责人，带领 10 余人研发团队（覆盖前端、算法、流媒体等方向）长期深耕视觉算法工程化、大规模视频流媒体系统、分布式 AI 推理平台架构设计与性能调优，以及智慧城市治理平台研发。近年聚焦大模型应用与 RAG 检索增强，独立完成智能检索服务从 0 到 1 的搭建。擅长结合云原生分布式技术推动 AI 视觉业务规模化落地，兼顾技术深度与商业价值，始终聚焦多模态大模型与智能搜索赛道。
 
-拥有 8 年云平台研发与技术管理经验，现任机器视觉云平台技术负责人，带领 10+ 研发团队（涵盖前端、算法、流媒体）长期深耕视觉算法工程化、大规模视频流媒体系统、分布式 AI 推理平台架构设计与性能调优；近年主攻大模型应用、RAG 增强检索，独立完成从 0 到 1 的智能检索服务搭建。擅长结合云原生分布式技术实现 AI 视觉业务规模化落地，平衡技术深度与商业价值，长期聚焦多模态大模型 + 智能搜索赛道。
-
-8 years of experience in cloud platform R&D and technical management. Currently serving as the technical lead of a machine vision cloud platform, leading a 10-member R&D team specialized in visual algorithm engineering, large-scale video streaming systems, and distributed AI inference platform architecture design & performance optimization.
-Recent focus: LLM applications and RAG vector retrieval; independently built an intelligent search service from scratch.
-Skilled at scaling multimodal AI vision businesses with cloud-native distributed architecture, balancing technical depth with commercial value.
+With 8 years of experience in cloud platform R&D and technical management, I previously served as Technical Lead of the Machine Vision Cloud Platform at SENSORO (Beijing) Technology Co., Ltd., leading a team of 10+ engineers across frontend, algorithms, and streaming media. My work has been deeply focused on vision algorithm engineering, large-scale video streaming systems, architecture design and performance tuning of distributed AI inference platforms, and smart city governance platform development. In recent years, I have shifted my focus to large model applications and RAG-based retrieval-augmented generation, building an intelligent retrieval service from 0 to 1. I specialize in leveraging cloud-native distributed technologies to drive the large-scale commercialization of AI vision solutions, striking a balance between technical depth and business value, with a sustained focus on the multimodal large model and intelligent search track.
 
 ## 🎓 教育背景 | Education
 
