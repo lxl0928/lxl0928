@@ -24,7 +24,7 @@ With 8 years of experience in cloud platform R&D and technical management, I pre
 
 ### 西南民族大学 | Southwest Minzu University
 
-2013.09 - 2015.07 | 软件工程（湖大联合培养）| Joint Training Program with Hunan University
+2013.09 - 2015.07 | 软件工程（湖南大学联合培养）| Joint Training Program with Hunan University
 - GPA：3.6，专业排名 1%~5% | Top 1%~5% of major
 - 2015 全国大学生计算机设计大赛 省一等奖、全国二等奖 | 2015 China Collegiate Computing Competition: Provincial First Prize, National Second Prize
 
@@ -34,7 +34,7 @@ With 8 years of experience in cloud platform R&D and technical management, I pre
 
 **机器视觉平台组负责人 | Tech Lead, Machine Vision Platform**
 
-2018.07 - Present
+2018.07 - 2026.08
 1. 搭建并管理一支涵盖前后端与流媒体的 10 人完整研发团队，统筹团队人才建设、任务排期与技术管理；
 2. 全面负责智慧城市 AI 云平台整体方案设计与技术攻坚，统筹视觉算法工程化、云平台架构、软硬件一体化产品研发与商业化落地；
 3. 保障多个大型政府智慧城市项目高质量交付，支撑多条 AI 视觉业务线规模化落地。
@@ -55,7 +55,7 @@ With 8 years of experience in cloud platform R&D and technical management, I pre
 
 ### 1. 技术架构 | Tech Architecture
 
-基于 Python / FastAPI / Tornado 构建全栈分布式云原生平台，核心技术栈：
+基于 Python3 / FastAPI / Tornado 构建全栈分布式云原生平台，核心技术栈：
 - 中间件：Kafka、Redis、Celery、Nacos
 - 存储：PostgreSQL、Elasticsearch、Milvus/Zilliz 向量库、S3 对象存储
 - 容器编排：Docker、K8s
@@ -75,8 +75,8 @@ With 8 years of experience in cloud platform R&D and technical management, I pre
 
 ### 3. 平台承载规模 | Platform Scale
 
-- 接入自研智能摄像机 15000+ 台，存量视频流 30000+ 路
-- 稳定承载同时在线实时视频流 40000+ 路实时视频流
+- 接入自研智能摄像机 15000+ 台，边缘利旧视频解析智能工作站170台+累计接入存量监控点位 30000+ 路
+- 稳定承载 40000+ 路监控定位的设备控制信令流、图片流、事件流、视频流
 
 ### 4. 核心性能指标 | Core Performance
 
