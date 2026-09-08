@@ -6,7 +6,7 @@
 
 📍 Location：Haidian District, Beijing
 
-📱 Phone：176-XXXX-XXXX
+📱 Phone：176-2307-6764
 
 📧 Email：timilong928@gmail.com
 
@@ -120,7 +120,7 @@ Focus on multimodal LLM application development, RAG vector retrieval, intellige
 
 ## 📬 联系方式 | Contact
 
-- Mobile：176-XXXX-XXXX
+- Mobile：176-2307-6764
 - Email：timilong928@gmail.com
 - Location：Haidian District, Beijing, China
 
