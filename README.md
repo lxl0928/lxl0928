@@ -11,9 +11,13 @@
 📧 Email：timilong928@gmail.com
 
 ## 👋 关于我 | About Me
-拥有 8 年云平台研发与技术管理经验，曾任北京升哲（SENSORO）科技有限公司机器视觉云平台技术负责人，带领 10 余人研发团队（覆盖前端、算法、流媒体等方向）长期深耕视觉算法工程化、大规模视频流媒体系统、分布式 AI 推理平台架构设计与性能调优，以及智慧城市治理平台研发。近年聚焦大模型应用与 RAG 检索增强，独立完成智能检索服务从 0 到 1 的搭建。擅长结合云原生分布式技术推动 AI 视觉业务规模化落地，兼顾技术深度与商业价值，始终聚焦多模态大模型与智能搜索赛道。
+拥有 8 年云平台研发与技术管理经验，曾任北京升哲（SENSORO）科技有限公司机器视觉云平台技术负责人，带领 10 余人研发团队（覆盖前端、算法、流媒体等方向），完成1.5万台自研摄像机、600台边缘Orin/AX650N一体机的产测、配置、授权、上云、远程控制、数据治理、产品应用与运维工作，长期深耕视觉算法工程化、大规模视频流媒体系统、分布式 AI 推理平台架构设计与性能调优，以及智慧城市治理平台研发。近年聚焦大模型应用与 RAG 检索增强，独立完成智能检索服务从 0 到 1 的搭建。擅长结合云原生分布式技术推动 AI 视觉业务规模化落地，兼顾技术深度与商业价值，始终聚焦多模态大模型与智能搜索赛道。
 
-With 8 years of experience in cloud platform R&D and technical management, I previously served as Technical Lead of the Machine Vision Cloud Platform at SENSORO (Beijing) Technology Co., Ltd., leading a team of 10+ engineers across frontend, algorithms, and streaming media. My work has been deeply focused on vision algorithm engineering, large-scale video streaming systems, architecture design and performance tuning of distributed AI inference platforms, and smart city governance platform development. In recent years, I have shifted my focus to large model applications and RAG-based retrieval-augmented generation, building an intelligent retrieval service from 0 to 1. I specialize in leveraging cloud-native distributed technologies to drive the large-scale commercialization of AI vision solutions, striking a balance between technical depth and business value, with a sustained focus on the multimodal large model and intelligent search track.
+With 8 years of experience in cloud platform R&D and technical management, I was formerly the Technical Lead of the Machine Vision Cloud Platform at Beijing SENSORO Technology Co., Ltd. I led a R&D team of over 10 members spanning front-end development, algorithms, streaming media and other domains, and delivered end-to-end work covering production testing, configuration, authorization, cloud onboarding, remote control, data governance, product application and operations & maintenance (O&M) for 15,000 in-house developed cameras and 600 edge Orin/AX650N all-in-one devices.
+
+I have long been deeply committed to vision algorithm engineering, architecture design and performance tuning of large-scale video streaming systems and distributed AI inference platforms, as well as the R&D of smart city governance platforms. In recent years, I have shifted my focus to large model applications and Retrieval-Augmented Generation (RAG), and independently built an intelligent retrieval service completely from scratch.
+
+I specialize in driving large-scale rollout of AI vision businesses by integrating cloud-native distributed technologies, striking a balance between technical depth and commercial value, and have consistently focused on the multimodal large model and intelligent search sector.
 
 ## 🎓 教育背景 | Education
 
