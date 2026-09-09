@@ -23,12 +23,12 @@ I specialize in driving large-scale rollout of AI vision businesses by integrati
 
 ### 湖南大学 | Hunan University
 
-2015.09 - 2017.07 | 软件工程 本科 | Bachelor of Software Engineering
+2015.09 - 2017.07 | 软件工程 | Bachelor of Software Engineering
 - GPA：3.7/4.0，专业排名前 1% | Top 1% of major
 
 ### 西南民族大学 | Southwest Minzu University
 
-2013.09 - 2015.07 | 软件工程（湖南大学联合培养）| Joint Training Program with Hunan University
+2013.09 - 2017.07 | 软件工程（湖南大学联合培养）| Joint Training Program with Hunan University
 - GPA：3.6，专业排名 1%~5% | Top 1%~5% of major
 - 2015 全国大学生计算机设计大赛 省一等奖、全国二等奖 | 2015 China Collegiate Computing Competition: Provincial First Prize, National Second Prize
 
