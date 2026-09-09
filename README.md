@@ -79,7 +79,7 @@ I specialize in driving large-scale rollout of AI vision businesses by integrati
 
 ### 3. 平台承载规模 | Platform Scale
 
-- 接入自研智能摄像机 15000+ 台，边缘利旧视频解析智能工作站170台+累计接入存量监控点位 30000+ 路
+- 接入自研智能摄像机 15000+ 台，边缘利旧视频解析/推理智能工作站500台+累计接入存量监控点位 30000+ 路
 - 稳定承载 40000+ 路监控定位的设备控制信令流、图片流、事件流、视频流
 
 ### 4. 核心性能指标 | Core Performance
